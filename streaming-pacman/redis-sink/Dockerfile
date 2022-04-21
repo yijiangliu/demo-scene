@@ -1,4 +1,4 @@
-FROM golang:1.14
+FROM golang:bullseye
 
 LABEL maintainer="Ricardo Ferreira <riferrei@riferrei.com>"
 
