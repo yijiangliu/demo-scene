@@ -1,4 +1,4 @@
-FROM golang:1.14
+FROM golang:1.23rc1
 
 LABEL maintainer="Ricardo Ferreira <riferrei@riferrei.com>"
 
